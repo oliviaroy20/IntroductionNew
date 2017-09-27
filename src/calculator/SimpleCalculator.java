@@ -5,7 +5,7 @@ public class SimpleCalculator implements ICalculator {
 	@Override
 	public double add(double a, double b) {
 		// TODO Auto-generated method stub
-		return a+b;
+		return a+b + 0;
 	}
 
 	@Override
